@@ -1,5 +1,9 @@
 # Insecure Design Challenge
 
+## Steps to start app
+1. npm install express
+2. node terrible-api.js
+
 ## Goal
 1. Research cross-site scripting (XSS) attacks, and find a way to use it in the app.
 2. Why did this work?

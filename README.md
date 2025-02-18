@@ -1,12 +1,15 @@
-# Insecure Design Challenge
+# Broken Access Control
+# insecure file upload
 
 ## Steps to start app
 1. npm install express
-2. node terrible-api.js
+2. node fileuplaod.js
 
-## Goal
-1. Research cross-site scripting (XSS) attacks, and find a way to use it in the app.
-2. Why did this work?
-3. What would you do to prevent this vulnerability?
+## Challenge
+You are a cybersecurity investigator hired to uncover the truth behind a major data leak at a tech company. Sensitive files have appeared online, and all signs point to broken access control as the culprit.
 
-Feel free to send me an image of the result with an explanation of how and why the attack worked, and what would be a way to prevent this type of attack.
+Your Challenge:
+Write your conclusion:
+1️. How the leak happened – Did an employee gain unauthorized access? Was a file-sharing system misconfigured? Did a hacker exploit weak permissions?
+
+2. The solution – What security measures were put in place to prevent future leaks?

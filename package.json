@@ -1,5 +1,5 @@
 {
-  "name": "insecure-design-demo",
+  "name": "insecure-fileupload",
   "version": "1.0.0",
   "description": "",
   "main": "terrible-api.js",
